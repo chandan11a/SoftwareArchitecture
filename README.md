@@ -1,2 +1,0 @@
-# SoftwareArchitecture
-Software Architecture
